@@ -1,0 +1,525 @@
+{
+  "title": "Designed for Discovery",
+  "resort": "Renaissance Phuket Resort & Spa",
+  "guideUrl": "https://renphuket.github.io/Renphuket-Guidebook/",
+  "source": {
+    "filename": "HKTBR - Design book.pdf",
+    "date": "2026-10-08",
+    "status": "approval-unconfirmed",
+    "sha256": "8b82c5a13ab11a8c0a80348bf096e152b440f6c49ea9ec4e9a8e118c68d33f45"
+  },
+  "cover": {
+    "src": "assets/cover.webp",
+    "small": "assets/cover-small.webp",
+    "width": 2000,
+    "height": 1372,
+    "alt": "The resort arrival pavilion and fountain illuminated at dusk",
+    "smallWidth": 760
+  },
+  "chapters": [
+    {
+      "id": "designed-by-the-land",
+      "title": "Designed by the land",
+      "subtitle": "THE STORY OF RENAISSANCE PHUKET RESORT & SPA BEGINS WITH ITS SETTING",
+      "sourceSpread": 2,
+      "paragraphs": [
+        "When planning for the resort began around 2006, the site at Mai Khao already presented a distinct landscape: a long beachfront setting, gentle changes in level and a lower area through the center of the property.",
+        "Rather than treating the landscape as something to be added after the architecture, it became part of the planning from the beginning. The buildings, villas, open spaces and landforms were considered together, allowing the character of the site to influence how the resort would take shape.",
+        "Guestroom buildings were positioned along the sides of the property, leaving a generous landscaped space through the center. Pool villas were grouped together in a more private setting, while the landscape between them became an important part of the guest experience."
+      ],
+      "images": [
+        {
+          "src": "assets/land.webp",
+          "small": "assets/land-small.webp",
+          "width": 1152,
+          "height": 1440,
+          "alt": "Aerial view of the resort, its central landscape and Mai Khao Beach",
+          "smallWidth": 608
+        }
+      ],
+      "timeline": [
+        [
+          "2006",
+          "The design story begins"
+        ],
+        [
+          "2010",
+          "Renaissance Phuket Resort & Spa welcomes its first guests"
+        ],
+        [
+          "2014",
+          "ASA Citation Award · Architectural Design"
+        ],
+        [
+          "2015",
+          "TALA Honor Award · Hospitality Landscape"
+        ],
+        [
+          "2025",
+          "A renovation reimagines the guestrooms and pool villas."
+        ],
+        [
+          "Today",
+          "The story continues."
+        ]
+      ]
+    },
+    {
+      "id": "a-story-told-by-locals",
+      "title": "A story told by locals",
+      "subtitle": "A WHITE TREE, A COASTAL LAND AND A WAY OF LIFE",
+      "sourceSpread": 3,
+      "paragraphs": [
+        "In Mai Khao, local people have long spoken of a large white-barked tree that stood on a nearby hill and could be seen by passing vessls. The place was once called Mai Kaeo, the story goes, named after this distinctive tree, with the name later shiftting in local speech to Mai Khao. Its a story passed down in the community, reflecting how closely the landscape and local life have alwats been connected.",
+        "Melaleuca grows well in wet, low-lying environments and can be found in coastal areas and around peat-swamp margins in Southern Thailand. Its pale, layered bark gives the tree its distinctive appearance.",
+        "Here, the tree is more than a familiar part of the landscape. For generations, its timber and bark have been valued for their practical qualities and have supported everyday life along the coast."
+      ],
+      "images": [
+        {
+          "src": "assets/white-bark.webp",
+          "small": "assets/white-bark-small.webp",
+          "width": 964,
+          "height": 646,
+          "alt": "Pale Melaleuca trunks against the dark wall beside a shaded terrace",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/coastal-land.webp",
+          "small": "assets/coastal-land-small.webp",
+          "width": 2000,
+          "height": 1333,
+          "alt": "Mai Khao Beach framed by coastal trees",
+          "smallWidth": 760
+        }
+      ],
+      "note": {
+        "title": "Why the dark wall?",
+        "text": "The dark background was designed to contrast with the pale trunks of the Melaleuca, making the White-bark tree stand out within the landscape."
+      },
+      "illustration": {
+        "src": "assets/local-tree.webp",
+        "small": "assets/local-tree-small.webp",
+        "width": 704,
+        "height": 395,
+        "alt": "Booklet drawing of a coastal tree, hill and passing boat",
+        "smallWidth": 704
+      },
+      "tree": {
+        "title": "Meet the tree",
+        "name": "ต้นเสม็ดขาว — Melaleuca",
+        "quote": "“Queen of the Coastal Forest”",
+        "text": "Its timber is durable in wet and saline conditions and has traditionally been used for:",
+        "uses": [
+          "Piles and house construction",
+          "Fencing and furniture",
+          "Bark for roofing and temporary walls",
+          "Bark for boat caulking and leak repair",
+          "Dyeing fishing nets",
+          "Wrapping for starting fires"
+        ]
+      },
+      "craft": {
+        "src": "assets/tree-craft.webp",
+        "small": "assets/tree-craft-small.webp",
+        "width": 903,
+        "height": 171,
+        "alt": "Six booklet illustrations: construction piles, fencing, bark roofing, boat caulking, fishing nets and fire wrapping",
+        "smallWidth": 760
+      }
+    },
+    {
+      "id": "a-sequence-of-discovery",
+      "title": "A sequence of discovery",
+      "subtitle": "THE RESORT WAS NEVER INTENDED TO REVEAL ITSELF ALL AT ONCE.",
+      "sourceSpread": 4,
+      "paragraphs": [
+        "From the beginning, the journey through Renaissance Phuket Resort & Spa was considered as carefully as the individual spaces themselves.",
+        "Arrival begins with architecture. From the lobby and The Lounge, the view starts to open. Larger trees and denser planting frame the sides, while the centre remains more open, drawing the eye deeper into the property.",
+        "Move forward and the landscape takes over. Paths curve rather than revealing every destination directly. Water appears between planting. Pale sand begins before the beach itself. Only gradually does Mai Khao Beach become part of the view.",
+        "The original landscape concept describes this as a “sense of discovery” expressed through visual sequence—drawing guests through the resort rather than concentrating the experience in one place.",
+        "The sequence was designed to make each part of the resort lead to another:"
+      ],
+      "images": [
+        {
+          "src": "assets/sequence-1.webp",
+          "small": "assets/sequence-1-small.webp",
+          "width": 964,
+          "height": 646,
+          "alt": "Arrival pavilion seen from the driveway",
+          "caption": "Arrival",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/sequence-2.webp",
+          "small": "assets/sequence-2-small.webp",
+          "width": 901,
+          "height": 597,
+          "alt": "View from the lobby across the resort",
+          "caption": "Lobby",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/sequence-3.webp",
+          "small": "assets/sequence-3-small.webp",
+          "width": 1284,
+          "height": 856,
+          "alt": "Palm-lined sandy corridor",
+          "caption": "Beach Connection Corridor",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/sequence-4.webp",
+          "small": "assets/sequence-4-small.webp",
+          "width": 544,
+          "height": 430,
+          "alt": "Curved bridge over the pond",
+          "caption": "Water",
+          "smallWidth": 544
+        },
+        {
+          "src": "assets/sequence-5.webp",
+          "small": "assets/sequence-5-small.webp",
+          "width": 907,
+          "height": 605,
+          "alt": "Pool villa terrace",
+          "caption": "Rooms & Villas",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/sequence-6.webp",
+          "small": "assets/sequence-6-small.webp",
+          "width": 858,
+          "height": 572,
+          "alt": "Hammock beside Mai Khao Beach",
+          "caption": "Sand & Sea",
+          "smallWidth": 760
+        }
+      ],
+      "quote": "“Arrival begins with architecture. From the lobby and The Lounge, the view starts to open…”",
+      "layout": "sequence"
+    },
+    {
+      "id": "the-beach-drawn-inland",
+      "title": "The beach drawn inland",
+      "subtitle": "FEEL THE COAST BEFORE YOU REACH THE SHORE",
+      "sourceSpread": 5,
+      "paragraphs": [
+        "A broad corridor of pale sand was introduced through the central landscape, extending the character of Mai Khao Beach farther into the property.",
+        "From The Lounge, this pale opening helps draw the eye through the landscape toward the coast, while guestrooms positioned along either side look into the central space."
+      ],
+      "images": [
+        {
+          "src": "assets/beach-corridor.webp",
+          "small": "assets/beach-corridor-small.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Pale sand and palms extend the beach into the resort",
+          "smallWidth": 507
+        },
+        {
+          "src": "assets/sand-detail.webp",
+          "small": "assets/sand-detail-small.webp",
+          "width": 1387,
+          "height": 922,
+          "alt": "A curved sandy pathway through tropical planting",
+          "smallWidth": 760
+        }
+      ],
+      "note": {
+        "title": "Look closer",
+        "text": "Notice the pale sand, the way the landscape gradually opens, and the transition to taller trees."
+      }
+    },
+    {
+      "id": "follow-the-water",
+      "title": "Follow the water",
+      "subtitle": "WATER HAS ALWAYS BEEN PART OF THE LANDSCAPE",
+      "sourceSpread": 6,
+      "paragraphs": [
+        "Water first appears at the lobby entrance, where the fountain introduces it as part of the arrival experience. Its placement also reflects Feng Shui, in which flowing water is associated with positive energy, prosperity and abundance, making it an auspicious element at an entrance.",
+        "From here, water becomes a recurring part of the landscape. Streams run along both sides of the guestroom buildings, following the natural fall of the land toward the centre of the property, where they meet the pond.",
+        "During the rainy season, this movement also serves a practical purpose: rainwater drains into the streams and follows the lower ground toward the pond, which occupies a naturally lower part of the site.",
+        "From the symbolic water at arrival to the streams and pond beyond, water connects the journey through the landscape."
+      ],
+      "images": [
+        {
+          "src": "assets/pond.webp",
+          "small": "assets/pond-small.webp",
+          "width": 604,
+          "height": 586,
+          "alt": "Curved footbridge above water and tropical planting",
+          "smallWidth": 604
+        },
+        {
+          "src": "assets/fountain.webp",
+          "small": "assets/fountain-small.webp",
+          "width": 338,
+          "height": 332,
+          "alt": "Water fountain at the lobby entrance",
+          "smallWidth": 338
+        }
+      ],
+      "note": {
+        "title": "Lobby fountain",
+        "text": "Positive energy, prosperity and abundance"
+      }
+    },
+    {
+      "id": "the-hidden-spa",
+      "title": "The spa hidden in the landscape",
+      "subtitle": "FIND TRANQUILITY BEYOND THE VISIBLE",
+      "sourceSpread": 6,
+      "paragraphs": [
+        "Quan Spa sits close to the centre of Renaissance Phuket Resort & Spa, yet it was deliberately designed to feel secluded. Raised landforms and dense tropical planting surround the spa, creating privacy and separating it from the more open spaces of the resort.",
+        "The landscape draws inspiration from Phuket’s tropical interior, where greenery, changes in elevation and water create a more enclosed environment. Here, the land rises around the spa, allowing much of the building to remain hidden from view.",
+        "Water also plays a role in the spa’s identity. The name Quan comes from a Chinese expression meaning “the source of pure water.” This connection continues inside, where the eight treatment rooms are named using words for water from different languages.",
+        "The result is a space where the landscape provides privacy, while water connects the architecture to the spa experience."
+      ],
+      "images": [
+        {
+          "src": "assets/quan-spa.webp",
+          "small": "assets/quan-spa-small.webp",
+          "width": 2000,
+          "height": 1125,
+          "alt": "Aerial view of Quan Spa’s circular roof surrounded by tropical landscape",
+          "smallWidth": 760
+        }
+      ],
+      "quote": "Eight rooms. Eight languages. One meaning: water."
+    },
+    {
+      "id": "can-you-see-the-turtles",
+      "title": "Can you see the turtles?",
+      "subtitle": "A ROOFLINE INSPIRED BY A NESTING SHORE",
+      "sourceSpread": 7,
+      "paragraphs": [
+        "Mai Khao's association with nesting sea turtles became one of the references explored in the architecture of Renaissance Phuket Resort & Spa. Rather than reproducing the form of a turtle literally, the idea was translated more subtly through the softened roof forms and natural materiality of the villas.",
+        "It is a detail that can be easy to miss at ground level.",
+        "From a higher viewpoint, however, the relationship becomes easier to see: individual roof forms sit among the landscape rather than forming a single continuous architectural block.",
+        "It is one of the quieter examples of how something found beyond the resort's boundary influenced what was designed within it."
+      ],
+      "images": [
+        {
+          "src": "assets/turtle-roofs.webp",
+          "small": "assets/turtle-roofs-small.webp",
+          "width": 2000,
+          "height": 1457,
+          "alt": "Individual villa roofs nestled in greenery beside the Andaman Sea",
+          "smallWidth": 760
+        }
+      ],
+      "illustration": {
+        "src": "assets/turtle.webp",
+        "small": "assets/turtle-small.webp",
+        "width": 564,
+        "height": 303,
+        "alt": "Booklet line drawing of a sea turtle",
+        "smallWidth": 564
+      },
+      "note": {
+        "title": "Look up",
+        "text": "Can you see the inspiration?"
+      }
+    },
+    {
+      "id": "rooms-reimagined",
+      "title": "Rooms reimagined",
+      "subtitle": "REDEFINING SOUTHERN SEASIDE FOLKWAYS",
+      "sourceSpread": 8,
+      "paragraphs": [
+        "The renewed guestrooms and pool villas draw inspiration from Southern Thailand's coastal heritage, translating traditional craftsmanship, materials and everyday objects into contemporary interior design.",
+        "Completed in 2025, the renovation follows a concept described as “Redefining the Southern Seaside Folkways.” It draws on the practical knowledge passed through generations, where architecture and everyday objects were shaped by local materials, climate and the needs of daily life.",
+        "Rather than recreating traditional interiors, the design reinterprets familiar elements through contemporary forms and functions. Privacy screens and breathable walls, once practical features of Southern vernacular architecture, provide inspiration for details within the renewed spaces.",
+        "In the guestrooms, the design also takes cues from traditional Thai houses. Wood ceiling details reference the living spaces beneath these structures, while a palette of sand and ocean tones reflects the contrast between Mai Khao's shoreline and the Andaman Sea."
+      ],
+      "images": [
+        {
+          "src": "assets/pool-villa.webp",
+          "small": "assets/pool-villa-small.webp",
+          "width": 2000,
+          "height": 1333,
+          "alt": "Pool Villa bedroom with a timber ceiling and private pool beyond",
+          "caption": "Pool Villa",
+          "smallWidth": 760
+        },
+        {
+          "src": "assets/deluxe-room.webp",
+          "small": "assets/deluxe-room-small.webp",
+          "width": 2000,
+          "height": 1333,
+          "alt": "Deluxe Room bedroom with shoreline-inspired headboard",
+          "caption": "Deluxe Room",
+          "smallWidth": 760
+        }
+      ],
+      "note": {
+        "title": "Familiar ideas, new forms",
+        "text": "Look for the architectural references in the screens, ceiling details and cabinetry. Each offers a contemporary interpretation of an element once shaped by everyday life."
+      },
+      "continuation": [
+        "The Pool Villas draw inspiration from Southern folk art, reinterpreting traditional fishing tools, ceramic dishes and wicker lanterns through contemporary decorative details. In the Deluxe Rooms, fishermen’s rope knots inspire wall decorations, bringing a familiar element of coastal life into the interiors and connecting the design to Mai Khao’s seaside heritage.",
+        "Pearls introduce another layer of local identity. Long associated with the Andaman coast, their rounded forms and reflective qualities are referenced through decorative lighting, while wooden screens draw inspiration from traditional Southern Thai houses. Their angled panels reinterpret breathable walls and privacy screens, allowing light and air to pass through while maintaining privacy. Together, these elements bring coastal influences and practical architectural ideas into the renewed interiors."
+      ],
+      "details": [
+        {
+          "src": "assets/cabinet.webp",
+          "small": "assets/cabinet-small.webp",
+          "width": 537,
+          "height": 357,
+          "alt": "Cabinet details shown in the booklet",
+          "caption": "CABINET Minibar takes cues from the familiar form of a village kitchen cabinet.",
+          "smallWidth": 537
+        },
+        {
+          "src": "assets/ceiling.webp",
+          "small": "assets/ceiling-small.webp",
+          "width": 510,
+          "height": 354,
+          "alt": "Timber ceiling and vernacular house reference",
+          "caption": "WOOD CEILING Character of living beneath a traditional Thai house",
+          "smallWidth": 510
+        },
+        {
+          "src": "assets/patterns.webp",
+          "small": "assets/patterns-small.webp",
+          "width": 513,
+          "height": 339,
+          "alt": "Basket-weave and coastal craft details",
+          "caption": "THE PATTERNS Drawn from the textures of coastal life.",
+          "smallWidth": 513
+        },
+        {
+          "src": "assets/wall.webp",
+          "small": "assets/wall-small.webp",
+          "width": 513,
+          "height": 339,
+          "alt": "Abstract shoreline wall pattern",
+          "caption": "THE WALL An abstract interpretation of Phuket's shoreline",
+          "smallWidth": 513
+        },
+        {
+          "src": "assets/light.webp",
+          "small": "assets/light-small.webp",
+          "width": 474,
+          "height": 345,
+          "alt": "Pearl-inspired decorative lighting",
+          "caption": "THE LIGHT Inspired by pearl forms.",
+          "smallWidth": 474
+        },
+        {
+          "src": "assets/screen.webp",
+          "small": "assets/screen-small.webp",
+          "width": 477,
+          "height": 345,
+          "alt": "Angled timber screen",
+          "caption": "THE SCREEN A reference to vernacular elements.",
+          "smallWidth": 477
+        }
+      ],
+      "concepts": [
+        "Redefined local wisdom",
+        "Eclecticism",
+        "Local color scheme",
+        "Uncover local gem"
+      ],
+      "layout": "rooms"
+    },
+    {
+      "id": "hydra-collection",
+      "title": "The Hydra Collection",
+      "subtitle": "",
+      "sourceSpread": 9,
+      "paragraphs": [
+        "Look around the lobby and discover two sculptural forms that blur the line between furniture and art. Created by artist and designer EggWong, the Hydra Collection was designed exclusively for Renaissance Phuket Resort & Spa in 2010, exploring the relationship between man and woman through contrasting yet complementary forms.",
+        "Look closer and you’ll find inspiration from the coast. Their organic shapes reference coral, cuttlebone and sea cucumber, reinterpreted through abstract forms.",
+        "Crafted from anodized aluminium, stainless steel and marble, the pieces feature a neutral palette chosen to complement the natural surroundings of Mai Khao."
+      ],
+      "images": [
+        {
+          "src": "assets/hydra.webp",
+          "small": "assets/hydra-small.webp",
+          "width": 1056,
+          "height": 528,
+          "alt": "Two sculptural Hydra Collection seats: one dark elongated form and one pale rounded form",
+          "smallWidth": 760
+        }
+      ],
+      "note": {
+        "title": "Look closer",
+        "text": "“The lobby's Hydra Collection chairs echo the harmony of man and woman…”"
+      }
+    }
+  ],
+  "map": {
+    "image": {
+      "src": "assets/discovery-map.webp",
+      "small": "assets/discovery-map-small.webp",
+      "width": 2301,
+      "height": 822,
+      "alt": "Illustrated Design Discovery Map showing the resort, beach, landscape and numbered discovery locations; the full ten-stop text guide follows below. The source drawing labels locations 1–9.",
+      "smallWidth": 760
+    },
+    "stops": [
+      {
+        "number": 1,
+        "title": "The arrival sequence",
+        "description": "Where architecture begins to give way to landscape",
+        "chapter": "a-sequence-of-discovery"
+      },
+      {
+        "number": 2,
+        "title": "The white-bark tree",
+        "description": "Find the pale Melaleuca trunks standing against the dark landscape walls",
+        "chapter": "a-story-told-by-locals"
+      },
+      {
+        "number": 3,
+        "title": "A view to the coast",
+        "description": "See how the landscape frames the view from The Lounge toward the sea",
+        "chapter": "the-beach-drawn-inland"
+      },
+      {
+        "number": 4,
+        "title": "The beach drawn inland",
+        "description": "Follow the sandy landscape corridor toward the coast",
+        "chapter": "the-beach-drawn-inland"
+      },
+      {
+        "number": 5,
+        "title": "Follow the water",
+        "description": "Trace the streams beside the guestrooms as they lead toward the pond",
+        "chapter": "follow-the-water"
+      },
+      {
+        "number": 6,
+        "title": "The hidden spa",
+        "description": "Discover how landforms and planting create a secluded setting",
+        "chapter": "the-hidden-spa"
+      },
+      {
+        "number": 7,
+        "title": "The villa village",
+        "description": "Explore the pool villas nestled among the tropical greenery",
+        "chapter": "can-you-see-the-turtles"
+      },
+      {
+        "number": 8,
+        "title": "Look up",
+        "description": "Find the turtle reference in the villa rooflines",
+        "chapter": "can-you-see-the-turtles"
+      },
+      {
+        "number": 9,
+        "title": "The Hydra Collection",
+        "description": "Discover the collection and the details behind it",
+        "chapter": "hydra-collection"
+      },
+      {
+        "number": 10,
+        "title": "Find the craft",
+        "description": "Return to your room and discover the newest layer of the story",
+        "chapter": "rooms-reimagined"
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "src": "assets/cover.webp",
+    "small": "assets/cover-small.webp",
+    "width": 2000,
+    "height": 1372,
+    "alt": "The resort arrival pavilion and fountain illuminated at dusk",
+    "spread": 1,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s1-1"
+  },
+  {
+    "src": "assets/land.webp",
+    "small": "assets/land-small.webp",
+    "width": 1152,
+    "height": 1440,
+    "alt": "Aerial view of the resort, its central landscape and Mai Khao Beach",
+    "spread": 2,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s2-1"
+  },
+  {
+    "src": "assets/white-bark.webp",
+    "small": "assets/white-bark-small.webp",
+    "width": 964,
+    "height": 646,
+    "alt": "Pale Melaleuca trunks against the dark wall beside a shaded terrace",
+    "spread": 3,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s3-5"
+  },
+  {
+    "src": "assets/coastal-land.webp",
+    "small": "assets/coastal-land-small.webp",
+    "width": 2000,
+    "height": 1333,
+    "alt": "Mai Khao Beach framed by coastal trees",
+    "spread": 3,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s3-1"
+  },
+  {
+    "src": "assets/local-tree.webp",
+    "small": "assets/local-tree-small.webp",
+    "width": 704,
+    "height": 395,
+    "alt": "Booklet drawing of a coastal tree, hill and passing boat",
+    "spread": 3,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s3-4"
+  },
+  {
+    "src": "assets/tree-craft.webp",
+    "small": "assets/tree-craft-small.webp",
+    "width": 903,
+    "height": 171,
+    "alt": "Six booklet illustrations: construction piles, fencing, bark roofing, boat caulking, fishing nets and fire wrapping",
+    "spread": 3,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      40,
+      513,
+      341,
+      570
+    ]
+  },
+  {
+    "src": "assets/sequence-1.webp",
+    "small": "assets/sequence-1-small.webp",
+    "width": 964,
+    "height": 646,
+    "alt": "Arrival pavilion seen from the driveway",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-1"
+  },
+  {
+    "src": "assets/sequence-2.webp",
+    "small": "assets/sequence-2-small.webp",
+    "width": 901,
+    "height": 597,
+    "alt": "View from the lobby across the resort",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-2"
+  },
+  {
+    "src": "assets/sequence-3.webp",
+    "small": "assets/sequence-3-small.webp",
+    "width": 1284,
+    "height": 856,
+    "alt": "Palm-lined sandy corridor",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-3"
+  },
+  {
+    "src": "assets/sequence-4.webp",
+    "small": "assets/sequence-4-small.webp",
+    "width": 544,
+    "height": 430,
+    "alt": "Curved bridge over the pond",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-5"
+  },
+  {
+    "src": "assets/sequence-5.webp",
+    "small": "assets/sequence-5-small.webp",
+    "width": 907,
+    "height": 605,
+    "alt": "Pool villa terrace",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-4"
+  },
+  {
+    "src": "assets/sequence-6.webp",
+    "small": "assets/sequence-6-small.webp",
+    "width": 858,
+    "height": 572,
+    "alt": "Hammock beside Mai Khao Beach",
+    "spread": 4,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s4-6"
+  },
+  {
+    "src": "assets/beach-corridor.webp",
+    "small": "assets/beach-corridor-small.webp",
+    "width": 1333,
+    "height": 2000,
+    "alt": "Pale sand and palms extend the beach into the resort",
+    "spread": 5,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s5-1"
+  },
+  {
+    "src": "assets/sand-detail.webp",
+    "small": "assets/sand-detail-small.webp",
+    "width": 1387,
+    "height": 922,
+    "alt": "A curved sandy pathway through tropical planting",
+    "spread": 5,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s5-2"
+  },
+  {
+    "src": "assets/pond.webp",
+    "small": "assets/pond-small.webp",
+    "width": 604,
+    "height": 586,
+    "alt": "Curved footbridge above water and tropical planting",
+    "spread": 6,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s6-1"
+  },
+  {
+    "src": "assets/fountain.webp",
+    "small": "assets/fountain-small.webp",
+    "width": 338,
+    "height": 332,
+    "alt": "Water fountain at the lobby entrance",
+    "spread": 6,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s6-3"
+  },
+  {
+    "src": "assets/quan-spa.webp",
+    "small": "assets/quan-spa-small.webp",
+    "width": 2000,
+    "height": 1125,
+    "alt": "Aerial view of Quan Spa’s circular roof surrounded by tropical landscape",
+    "spread": 6,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s6-2"
+  },
+  {
+    "src": "assets/turtle-roofs.webp",
+    "small": "assets/turtle-roofs-small.webp",
+    "width": 2000,
+    "height": 1457,
+    "alt": "Individual villa roofs nestled in greenery beside the Andaman Sea",
+    "spread": 7,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s7-1"
+  },
+  {
+    "src": "assets/turtle.webp",
+    "small": "assets/turtle-small.webp",
+    "width": 564,
+    "height": 303,
+    "alt": "Booklet line drawing of a sea turtle",
+    "spread": 7,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      60,
+      417,
+      248,
+      518
+    ]
+  },
+  {
+    "src": "assets/pool-villa.webp",
+    "small": "assets/pool-villa-small.webp",
+    "width": 2000,
+    "height": 1333,
+    "alt": "Pool Villa bedroom with a timber ceiling and private pool beyond",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s8-1"
+  },
+  {
+    "src": "assets/deluxe-room.webp",
+    "small": "assets/deluxe-room-small.webp",
+    "width": 2000,
+    "height": 1333,
+    "alt": "Deluxe Room bedroom with shoreline-inspired headboard",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "s8-2"
+  },
+  {
+    "src": "assets/cabinet.webp",
+    "small": "assets/cabinet-small.webp",
+    "width": 537,
+    "height": 357,
+    "alt": "Cabinet details shown in the booklet",
+    "spread": 8,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      451,
+      213,
+      630,
+      332
+    ]
+  },
+  {
+    "src": "assets/ceiling.webp",
+    "small": "assets/ceiling-small.webp",
+    "width": 510,
+    "height": 354,
+    "alt": "Timber ceiling and vernacular house reference",
+    "spread": 8,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      634,
+      213,
+      804,
+      331
+    ]
+  },
+  {
+    "src": "assets/patterns.webp",
+    "small": "assets/patterns-small.webp",
+    "width": 513,
+    "height": 339,
+    "alt": "Basket-weave and coastal craft details",
+    "spread": 8,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      452,
+      397,
+      623,
+      510
+    ]
+  },
+  {
+    "src": "assets/wall.webp",
+    "small": "assets/wall-small.webp",
+    "width": 513,
+    "height": 339,
+    "alt": "Abstract shoreline wall pattern",
+    "spread": 8,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      629,
+      397,
+      800,
+      510
+    ]
+  },
+  {
+    "src": "assets/light.webp",
+    "small": "assets/light-small.webp",
+    "width": 474,
+    "height": 345,
+    "alt": "Pearl-inspired decorative lighting",
+    "spread": 9,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      37,
+      404,
+      195,
+      519
+    ]
+  },
+  {
+    "src": "assets/screen.webp",
+    "small": "assets/screen-small.webp",
+    "width": 477,
+    "height": 345,
+    "alt": "Angled timber screen",
+    "spread": 9,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      208,
+      404,
+      367,
+      519
+    ]
+  },
+  {
+    "src": "assets/hydra.webp",
+    "small": "assets/hydra-small.webp",
+    "width": 1056,
+    "height": 528,
+    "alt": "Two sculptural Hydra Collection seats: one dark elongated form and one pale rounded form",
+    "spread": 9,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      452,
+      360,
+      804,
+      536
+    ]
+  },
+  {
+    "src": "assets/discovery-map.webp",
+    "small": "assets/discovery-map-small.webp",
+    "width": 2301,
+    "height": 822,
+    "alt": "Illustrated Design Discovery Map showing the resort, beach, landscape and numbered discovery locations; the full ten-stop text guide follows below. The source drawing labels locations 1–9.",
+    "spread": 10,
+    "method": "PDF region rendering to preserve vector illustration / composition",
+    "crop": [
+      36,
+      276,
+      803,
+      550
+    ]
+  }
+]
