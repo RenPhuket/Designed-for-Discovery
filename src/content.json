@@ -336,18 +336,18 @@
         {
           "src": "assets/pool-villa.webp",
           "small": "assets/pool-villa-small.webp",
-          "width": 2000,
-          "height": 1333,
-          "alt": "Pool Villa bedroom with a timber ceiling and private pool beyond",
+          "width": 1336,
+          "height": 892,
+          "alt": "Pool Villa bedroom under a curved timber ceiling, with a sofa, a round wooden table and an open bathroom beyond",
           "caption": "Pool Villa",
           "smallWidth": 760
         },
         {
           "src": "assets/deluxe-room.webp",
           "small": "assets/deluxe-room-small.webp",
-          "width": 2000,
-          "height": 1333,
-          "alt": "Deluxe Room bedroom with shoreline-inspired headboard",
+          "width": 1336,
+          "height": 892,
+          "alt": "Deluxe Room with a large bed beside a rose-toned textured wall, timber paneling and an open bathroom",
           "caption": "Deluxe Room",
           "smallWidth": 760
         }
