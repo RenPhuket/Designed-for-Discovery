@@ -338,5 +338,85 @@
       803,
       550
     ]
+  },
+  {
+    "src": "assets/concept-wisdom.webp",
+    "small": "assets/concept-wisdom-small.webp",
+    "width": 351,
+    "height": 619,
+    "alt": "Timber screen with angled glass shutters above a woven timber wall panel",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "xref 49"
+  },
+  {
+    "src": "assets/concept-eclecticism.webp",
+    "small": "assets/concept-eclecticism-small.webp",
+    "width": 351,
+    "height": 619,
+    "alt": "Terracotta and turquoise vases and jars bound with woven wicker",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "xref 41"
+  },
+  {
+    "src": "assets/concept-color.webp",
+    "small": "assets/concept-color-small.webp",
+    "width": 351,
+    "height": 619,
+    "alt": "Rust-red wall with framed abstract artwork, a woven panel and ceramic jars",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "xref 50"
+  },
+  {
+    "src": "assets/concept-gem.webp",
+    "small": "assets/concept-gem-small.webp",
+    "width": 351,
+    "height": 619,
+    "alt": "Pearly shells, a nautilus shell and a pearl",
+    "spread": 8,
+    "method": "Embedded PDF image extraction",
+    "sourceImage": "xref 42"
+  },
+  {
+    "src": "assets/reference-cushions.webp",
+    "small": "assets/reference-cushions-small.webp",
+    "width": 488,
+    "height": 585,
+    "alt": "Blue wave-print and orange cushions on a pale sofa beside a bed",
+    "spread": 9,
+    "method": "PDF region rendering (6x) of the clipped picture",
+    "sourceImage": "strip 1"
+  },
+  {
+    "src": "assets/reference-coral.webp",
+    "small": "assets/reference-coral-small.webp",
+    "width": 489,
+    "height": 585,
+    "alt": "Sunset sky over the sea beside red sea fan coral",
+    "spread": 9,
+    "method": "PDF region rendering (6x) of the clipped picture",
+    "sourceImage": "strip 2"
+  },
+  {
+    "src": "assets/reference-rope.webp",
+    "small": "assets/reference-rope-small.webp",
+    "width": 504,
+    "height": 585,
+    "alt": "Thick rope knotted around a weathered timber post",
+    "spread": 9,
+    "method": "PDF region rendering (6x) of the clipped picture",
+    "sourceImage": "strip 3"
+  },
+  {
+    "src": "assets/reference-chair.webp",
+    "small": "assets/reference-chair-small.webp",
+    "width": 504,
+    "height": 585,
+    "alt": "A lounge chair with a woven cord back and an orange cushion",
+    "spread": 9,
+    "method": "PDF region rendering (6x) of the clipped picture",
+    "sourceImage": "strip 4"
   }
 ]

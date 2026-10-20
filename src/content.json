@@ -2,6 +2,7 @@
   "title": "Designed for Discovery",
   "resort": "Renaissance Phuket Resort & Spa",
   "guideUrl": "https://renphuket.github.io/Renphuket-Guidebook/",
+  "resortUrl": "https://www.renaissancephuket.com/",
   "source": {
     "filename": "HKTBR - Design book.pdf",
     "date": "2026-10-08",
@@ -360,67 +361,141 @@
         "The Pool Villas draw inspiration from Southern folk art, reinterpreting traditional fishing tools, ceramic dishes and wicker lanterns through contemporary decorative details. In the Deluxe Rooms, fishermen’s rope knots inspire wall decorations, bringing a familiar element of coastal life into the interiors and connecting the design to Mai Khao’s seaside heritage.",
         "Pearls introduce another layer of local identity. Long associated with the Andaman coast, their rounded forms and reflective qualities are referenced through decorative lighting, while wooden screens draw inspiration from traditional Southern Thai houses. Their angled panels reinterpret breathable walls and privacy screens, allowing light and air to pass through while maintaining privacy. Together, these elements bring coastal influences and practical architectural ideas into the renewed interiors."
       ],
+      "referenceStrip": [
+        {
+          "src": "assets/reference-cushions.webp",
+          "small": "assets/reference-cushions-small.webp",
+          "width": 488,
+          "height": 585,
+          "alt": "Blue wave-print and orange cushions on a pale sofa beside a bed",
+          "smallWidth": 488
+        },
+        {
+          "src": "assets/reference-coral.webp",
+          "small": "assets/reference-coral-small.webp",
+          "width": 489,
+          "height": 585,
+          "alt": "Sunset sky over the sea beside red sea fan coral",
+          "smallWidth": 489
+        },
+        {
+          "src": "assets/reference-rope.webp",
+          "small": "assets/reference-rope-small.webp",
+          "width": 504,
+          "height": 585,
+          "alt": "Thick rope knotted around a weathered timber post",
+          "smallWidth": 504
+        },
+        {
+          "src": "assets/reference-chair.webp",
+          "small": "assets/reference-chair-small.webp",
+          "width": 504,
+          "height": 585,
+          "alt": "A lounge chair with a woven cord back and an orange cushion",
+          "smallWidth": 504
+        }
+      ],
       "details": [
         {
           "src": "assets/cabinet.webp",
           "small": "assets/cabinet-small.webp",
-          "width": 537,
-          "height": 357,
-          "alt": "Cabinet details shown in the booklet",
-          "caption": "CABINET Minibar takes cues from the familiar form of a village kitchen cabinet.",
-          "smallWidth": 537
+          "width": 1032,
+          "height": 654,
+          "alt": "Minibar cabinet with a round mirror above it, beside a woven timber lattice",
+          "title": "Cabinet",
+          "caption": "Minibar takes cues from the familiar form of a village kitchen cabinet.",
+          "smallWidth": 760
         },
         {
           "src": "assets/ceiling.webp",
           "small": "assets/ceiling-small.webp",
-          "width": 510,
-          "height": 354,
-          "alt": "Timber ceiling and vernacular house reference",
-          "caption": "WOOD CEILING Character of living beneath a traditional Thai house",
-          "smallWidth": 510
+          "width": 1017,
+          "height": 653,
+          "alt": "Bathroom with a timber ceiling, beside the weathered beams and posts of a traditional timber house",
+          "title": "Wood ceiling",
+          "caption": "Character of living beneath a traditional Thai house",
+          "smallWidth": 760
         },
         {
           "src": "assets/patterns.webp",
           "small": "assets/patterns-small.webp",
-          "width": 513,
-          "height": 339,
-          "alt": "Basket-weave and coastal craft details",
-          "caption": "THE PATTERNS Drawn from the textures of coastal life.",
-          "smallWidth": 513
+          "width": 1011,
+          "height": 620,
+          "alt": "Curved slatted timber ceiling, beside a ribbed timber structure",
+          "title": "The patterns",
+          "caption": "Drawn from the textures of coastal life.",
+          "smallWidth": 760
         },
         {
           "src": "assets/wall.webp",
           "small": "assets/wall-small.webp",
-          "width": 513,
-          "height": 339,
-          "alt": "Abstract shoreline wall pattern",
-          "caption": "THE WALL An abstract interpretation of Phuket's shoreline",
-          "smallWidth": 513
+          "width": 993,
+          "height": 622,
+          "alt": "Soft peach-toned wall with gentle bands of colour, beside an aerial view of waves meeting the shore",
+          "title": "The wall",
+          "caption": "An abstract interpretation of Phuket's shoreline",
+          "smallWidth": 760
         },
         {
           "src": "assets/light.webp",
           "small": "assets/light-small.webp",
-          "width": 474,
-          "height": 345,
-          "alt": "Pearl-inspired decorative lighting",
-          "caption": "THE LIGHT Inspired by pearl forms.",
-          "smallWidth": 474
+          "width": 940,
+          "height": 662,
+          "alt": "Pair of bronze wall lights on a woven teal wall, beside a pearl in an oyster shell",
+          "title": "The light",
+          "caption": "Inspired by pearl forms.",
+          "group": "pearls",
+          "smallWidth": 760
         },
         {
           "src": "assets/screen.webp",
           "small": "assets/screen-small.webp",
-          "width": 477,
-          "height": 345,
-          "alt": "Angled timber screen",
-          "caption": "THE SCREEN A reference to vernacular elements.",
-          "smallWidth": 477
+          "width": 937,
+          "height": 662,
+          "alt": "Timber screen with angled glass shutters",
+          "title": "The screen",
+          "caption": "A reference to vernacular elements.",
+          "group": "pearls",
+          "smallWidth": 760
         }
       ],
-      "concepts": [
-        "Redefined local wisdom",
-        "Eclecticism",
-        "Local color scheme",
-        "Uncover local gem"
+      "conceptPictures": [
+        {
+          "src": "assets/concept-wisdom.webp",
+          "small": "assets/concept-wisdom-small.webp",
+          "width": 351,
+          "height": 619,
+          "alt": "Timber screen with angled glass shutters above a woven timber wall panel",
+          "caption": "Redefined local wisdom",
+          "smallWidth": 351
+        },
+        {
+          "src": "assets/concept-eclecticism.webp",
+          "small": "assets/concept-eclecticism-small.webp",
+          "width": 351,
+          "height": 619,
+          "alt": "Terracotta and turquoise vases and jars bound with woven wicker",
+          "caption": "Eclecticism",
+          "smallWidth": 351
+        },
+        {
+          "src": "assets/concept-color.webp",
+          "small": "assets/concept-color-small.webp",
+          "width": 351,
+          "height": 619,
+          "alt": "Rust-red wall with framed abstract artwork, a woven panel and ceramic jars",
+          "caption": "Local color scheme",
+          "smallWidth": 351
+        },
+        {
+          "src": "assets/concept-gem.webp",
+          "small": "assets/concept-gem-small.webp",
+          "width": 351,
+          "height": 619,
+          "alt": "Pearly shells, a nautilus shell and a pearl",
+          "caption": "Uncover local gem",
+          "smallWidth": 351
+        }
       ],
       "layout": "rooms"
     },

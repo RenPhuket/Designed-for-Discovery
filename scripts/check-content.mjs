@@ -16,6 +16,7 @@ validate(data);
 const rooms=data.chapters.find(c=>c.id==='rooms-reimagined');
 assert(rooms.continuation[0].includes('In the Deluxe Rooms, fishermen’s rope knots'),'Deluxe attribution must remain explicit');
 assert(rooms.continuation[0].includes('The Pool Villas draw inspiration from Southern folk art'),'Villa attribution must remain explicit');
+assert(rooms.conceptPictures.length===4&&rooms.referenceStrip.length===4,'Keep the four concept and four reference pictures from the booklet');
 assert(data.chapters.find(c=>c.id==='hydra-collection').paragraphs.join(' ').includes('EggWong'),'Artist credit is required');
 assert(!JSON.stringify(data).includes('/f_'),'Unresolved PDF extraction glyph');
 console.log('Content checks passed: chapter IDs, map targets, image files, alt text, attribution and extraction glyphs.');
