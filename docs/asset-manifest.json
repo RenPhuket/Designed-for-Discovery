@@ -418,5 +418,15 @@
     "spread": 9,
     "method": "PDF region rendering (6x) of the clipped picture",
     "sourceImage": "strip 4"
+  },
+  {
+    "src": "assets/lobby-fountain.webp",
+    "small": "assets/lobby-fountain-small.webp",
+    "width": 2000,
+    "height": 1301,
+    "alt": "The glass-roofed lobby entrance at dusk, with the fountain pool in the foreground",
+    "spread": 1,
+    "method": "Crop of the cover photograph (assets/cover.webp), rows 36-1337, matching the framing supplied by the editor",
+    "sourceImage": "cover.webp"
   }
 ]

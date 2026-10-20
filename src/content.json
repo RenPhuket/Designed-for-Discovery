@@ -83,14 +83,6 @@
           "height": 646,
           "alt": "Pale Melaleuca trunks against the dark wall beside a shaded terrace",
           "smallWidth": 760
-        },
-        {
-          "src": "assets/coastal-land.webp",
-          "small": "assets/coastal-land-small.webp",
-          "width": 2000,
-          "height": 1333,
-          "alt": "Mai Khao Beach framed by coastal trees",
-          "smallWidth": 760
         }
       ],
       "note": {
@@ -126,7 +118,8 @@
         "height": 171,
         "alt": "Six booklet illustrations: construction piles, fencing, bark roofing, boat caulking, fishing nets and fire wrapping",
         "smallWidth": 760
-      }
+      },
+      "layout": "flow"
     },
     {
       "id": "a-sequence-of-discovery",
@@ -216,7 +209,9 @@
           "height": 2000,
           "alt": "Pale sand and palms extend the beach into the resort",
           "smallWidth": 507
-        },
+        }
+      ],
+      "inlineImages": [
         {
           "src": "assets/sand-detail.webp",
           "small": "assets/sand-detail-small.webp",
@@ -258,6 +253,16 @@
           "height": 332,
           "alt": "Water fountain at the lobby entrance",
           "smallWidth": 338
+        }
+      ],
+      "inlineImages": [
+        {
+          "src": "assets/lobby-fountain.webp",
+          "small": "assets/lobby-fountain-small.webp",
+          "width": 2000,
+          "height": 1301,
+          "alt": "The glass-roofed lobby entrance at dusk, with the fountain pool in the foreground",
+          "smallWidth": 760
         }
       ],
       "note": {

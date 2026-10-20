@@ -3,13 +3,14 @@ import content from './content.json';
 import './styles.css';
 
 type Picture = { src: string; small: string; width: number; height: number; smallWidth?: number; alt: string; caption?: string; title?: string; group?: string };
-type Chapter = { id: string; title: string; subtitle: string; sourceSpread: number; paragraphs: string[]; images: Picture[]; layout?: string; note?: {title: string; text: string}; illustration?: Picture; quote?: string; timeline?: string[][]; tree?: {title:string;name:string;quote:string;text:string;uses:string[]}; craft?: Picture; continuation?: string[]; details?: Picture[]; conceptPictures?: Picture[]; referenceStrip?: Picture[] };
+type Chapter = { id: string; title: string; subtitle: string; sourceSpread: number; paragraphs: string[]; images: Picture[]; layout?: string; note?: {title: string; text: string}; illustration?: Picture; quote?: string; timeline?: string[][]; tree?: {title:string;name:string;quote:string;text:string;uses:string[]}; craft?: Picture; continuation?: string[]; details?: Picture[]; conceptPictures?: Picture[]; referenceStrip?: Picture[]; inlineImages?: Picture[] };
 const chapters: Chapter[] = content.chapters;
 const url = (path: string) => `${import.meta.env.BASE_URL}${path}`;
 function Photo({picture, priority=false, className=''}: {picture:Picture; priority?:boolean; className?:string}) {
  return <figure className={className}><img src={url(picture.src)} srcSet={!priority && picture.width>760?`${url(picture.small)} ${picture.smallWidth??760}w, ${url(picture.src)} ${picture.width}w`:undefined} sizes={priority?'100vw':'(max-width: 760px) 100vw, 60vw'} width={picture.width} height={picture.height} alt={picture.alt} loading={priority?'eager':'lazy'} fetchPriority={priority?'high':'auto'} decoding="async" />{(picture.title || picture.caption) && <figcaption>{picture.title && <strong>{picture.title}</strong>}{picture.caption}</figcaption>}</figure>;
 }
 function Story({chapter:c, index}: {chapter:Chapter; index:number}) {
+ const inline=c.layout==='flow'?c.images:(c.inlineImages??[]);
  const pairs=(c.details??[]).filter(d=>d.group!=='pearls');
  const pearlPairs=(c.details??[]).filter(d=>d.group==='pearls');
  return <section id={c.id} tabIndex={-1} className={`chapter chapter-${index+1} ${c.layout??''}`} aria-labelledby={`${c.id}-title`}>
@@ -17,10 +18,11 @@ function Story({chapter:c, index}: {chapter:Chapter; index:number}) {
   <div className="story-grid">
    <div className="story-copy"><h2 id={`${c.id}-title`}>{c.title}</h2>{c.subtitle && <p className="subtitle">{c.subtitle}</p>}{c.illustration && <Photo picture={c.illustration} className="illustration"/>}<div className="prose">{c.paragraphs.map((p,i)=><p key={i}>{p}</p>)}</div>
    {c.tree && <aside className="tree"><h3>{c.tree.title}</h3><p>{c.tree.name}<br/><i>{c.tree.quote}</i></p><p>{c.tree.text}</p>{c.craft && <Photo picture={c.craft}/>}<ul>{c.tree.uses.map(u=><li key={u}>{u}</li>)}</ul></aside>}
+   {inline.length>0 && <div className="flow-images">{inline.map(im=><Photo key={im.src} picture={im}/>)}</div>}
    {c.note && <aside className="look"><span className="eyebrow">{c.note.title.toLowerCase()==='look up'?'Look up':'Look closer'}</span>{!['look closer','look up'].includes(c.note.title.toLowerCase()) && <h3>{c.note.title}</h3>}<p>{c.note.text}</p></aside>}
    {c.quote && <blockquote>{c.quote}</blockquote>}
    </div>
-   <div className="story-images">{c.images.map((im,i)=><div key={im.src} className="image-item">{c.layout==='sequence' && <span className="image-number">0{i+1}</span>}<Photo picture={im}/></div>)}</div>
+   {c.layout!=='flow' && c.images.length>0 && <div className="story-images">{c.images.map((im,i)=><div key={im.src} className="image-item">{c.layout==='sequence' && <span className="image-number">0{i+1}</span>}<Photo picture={im}/></div>)}</div>}
   </div>
   {c.timeline && <ol className="timeline">{c.timeline.map(([year,text])=><li key={year}><strong>{year}</strong><span>{text}</span></li>)}</ol>}
   {c.conceptPictures && <div className="concept-board" role="group" aria-labelledby="concept-title"><h3 className="eyebrow" id="concept-title">Redefining the Southern Seaside Folkways</h3><div className="concept-grid">{c.conceptPictures.map(im=><Photo key={im.src} picture={im}/>)}</div></div>}
