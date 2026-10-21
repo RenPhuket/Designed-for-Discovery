@@ -2,7 +2,7 @@
 
 A mobile-first, continuous-scroll digital design booklet for Renaissance Phuket Resort & Spa. Static React + Vite + TypeScript. All photography, drawings and story copy come from the October 8, 2026 **HKTBR - Design book.pdf**. No backend, tracking, external image services or remote font dependencies.
 
-**Source status: latest located booklet, final approval unconfirmed.** This is an editorial review edition, not a claim of approved final copy. See `docs/EDITORIAL-REVIEW.md` before release. No site has been published. The included deployment workflow runs only when manually requested.
+**Source status: marked `approved-final` in `src/content.json`, so the "Editorial review edition" footer line is hidden.** See `docs/EDITORIAL-REVIEW.md` before release. No site has been published. The included deployment workflow runs only when manually requested.
 
 ## Run locally
 
